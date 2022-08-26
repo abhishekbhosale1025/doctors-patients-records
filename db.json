@@ -59,7 +59,7 @@
     "name" : "Megha",
     "gender" : "Female",
     "age" : "24",
-    "medicinesCount" : 2,
+    "medicinesCount" : 1,
     "medicines" : [
         {
             "name" : "AKVT-Tablets",
