@@ -1,0 +1,18 @@
+{
+    "userdata" : [
+        
+    ],
+    "patients" : [
+       {
+        "name" : "Vivek",
+        "gender" : "Male",
+        "age" : "25",
+        "medicines" : [
+            {
+                "name" : "Saradon",
+                "qty" : 10
+            }
+        ]
+       }
+    ]
+}
