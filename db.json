@@ -4,6 +4,7 @@
     ],
     "patients" : [
        {
+        "id" : 1,
         "name" : "Vivek",
         "gender" : "Male",
         "age" : "25",
@@ -18,6 +19,53 @@
                 "qty" : 5
             }
         ]
-       }
+    },
+    {
+        "id" : 2,
+        "name" : "Abhi",
+        "gender" : "Male",
+        "age" : "26",
+        "medicinesCount" : 2,
+        "medicines" : [
+            {
+                "name" : "Ancine",
+                "qty" : 10
+            },
+            {
+                "name" : "Zandu Bam",
+                "qty" : 5
+            }
+        ]
+   },
+   {
+    "id" : 2,
+    "name" : "Leena",
+    "gender" : "Female",
+    "age" : "20",
+    "medicinesCount" : 2,
+    "medicines" : [
+        {
+            "name" : "VXT-Tablets",
+            "qty" : 10
+        },
+        {
+            "name" : "BCRD-Tablets",
+            "qty" : 5
+        }
     ]
+},
+{
+    "id" : 2,
+    "name" : "Megha",
+    "gender" : "Female",
+    "age" : "24",
+    "medicinesCount" : 2,
+    "medicines" : [
+        {
+            "name" : "AKVT-Tablets",
+            "qty" : 10
+        }
+    ]
+}
+]
 }
