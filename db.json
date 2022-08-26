@@ -7,10 +7,15 @@
         "name" : "Vivek",
         "gender" : "Male",
         "age" : "25",
+        "medicinesCount" : 2,
         "medicines" : [
             {
                 "name" : "Saradon",
                 "qty" : 10
+            },
+            {
+                "name" : "Vicks",
+                "qty" : 5
             }
         ]
        }
